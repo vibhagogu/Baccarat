@@ -1,0 +1,14 @@
+Baccarat is a card game played at casinos. It is a comparing card game played between two hands, the "player" and the "banker". 
+Each baccarat round has three possible outcomes: "player", "banker", and "tie".
+In baccarat, cards have a point value: the 2 through 9 cards in each suit are worth face value in points; 
+the 10, jack (11), queen (12), and king(13) are worth 0; aces(1) are worth 1 point; jokers are not used. 
+Total points are calculated based on the units digit of the sum of their cards. 
+For example, hand of 9 Spades, 3 Hearts, and Queen (12) Clubs will have a point value of 2.
+Initially, both participants are given 2 cards to start with. If either participant has a hand of 8 or 9, they win automatically. 
+The participants may or may not receive a third card based on the method known by the dealer. 
+When both participants have their final hands, whoever has the highest total closest to 9 wins. 
+    Your Part: 
+    You may bet on either the Player to win, Banker to win, or Tie to occur. 
+    If you win the bet, you will double your earnings; otherwise, you lose the amount you bet. 
+    You start with 500 to bet.
+    Good Luck!
